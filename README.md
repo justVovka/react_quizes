@@ -32,6 +32,8 @@
   > Наше всё
 - [Redux](https://redux.js.org/)
   > Работа с состоянием компонентов
+- [Redux-Thunk](https://www.npmjs.com/package/redux-thunk)
+  > middleware, позволяющий писать асинхронные actions в redux
 - [React Router](https://reactrouter.com/)
   > Роутинг
 - [Firebase](https://firebase.google.com/)
